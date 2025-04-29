@@ -49,6 +49,7 @@ export default function Home() {
               height={60}
               className="drop-shadow-sm"
             />
+            <span className="text-gray-600 text-xl font-bold">RebateForge</span>
           </div>
         </div>
       </header>
@@ -333,7 +334,7 @@ export default function Home() {
             <div className="space-y-8">
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Is RebateForge really free?</h3>
-                <p className="text-gray-600">Yes, RebateForge is completely open source and free to use. You can self-host it or use our paid cloud version.</p>
+                <p className="text-gray-600">Yes, RebateForge is completely open source and free to use. You can self-host it or use our cloud version.</p>
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">How long does it take to set up?</h3>
@@ -386,7 +387,7 @@ export default function Home() {
                 height={30}
                 className="drop-shadow-sm"
               />
-              <span className="text-base font-semibold text-gray-900">RebateForge</span>
+              <span className="text-gray-600 text-md font-bold">RebateForge</span>
             </div>
             <p className="text-sm text-gray-600">The open source alternative to Enable</p>
           </div>
