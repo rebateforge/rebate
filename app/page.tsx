@@ -58,7 +58,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-16">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Rebate management does not have to be this hard.
+              Rebate management doesn&apos;t have to be this hard.
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed mb-8">
               The open-source platform that helps manufacturers and distributors manage rebates efficiently. 
